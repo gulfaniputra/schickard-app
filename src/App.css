@@ -24,3 +24,13 @@ body {
   background-color: #9cd;
   display: flex;
 }
+
+.output .previous-operand {
+  color: rgb(56, 56, 56);
+  font-size: 1.5rem;
+}
+
+.output .current-operand {
+  color: black;
+  font-size: 2.5rem;
+}
