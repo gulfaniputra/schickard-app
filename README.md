@@ -1,8 +1,31 @@
-# React + Vite
+# Schickard App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A spartan calculator.
 
-Currently, two official plugins are available:
+The name 'Schickard' derives from 'Wilhelm Schickard', who built the first known mechanical calculator.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table Of Contents
+
+- [Demo](#demo)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Stack](#stack)
+
+## Demo
+
+https://schickard.vercel.app/
+
+## Introduction
+
+The objective is to learn in-depth about React component re-rendering and state management.
+
+## Features
+
+- `AC` button, `DEL` button, elementary arithmetic operations' buttons, & numbers' buttons:
+
+  ![Features](public/features.png)
+
+## Stack
+
+- React 18
+- Vite 5
